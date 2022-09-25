@@ -1,0 +1,1 @@
+Classify movie reviews using a Keras TensorFlow modelThe .ipynb files can be opened using Python Notebook. The data is imported from Keras
