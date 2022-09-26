@@ -1,1 +1,1 @@
-Coming Soon
+NHIS is a health data national survey that contains mortality status of individuals throughout the years. It also collect health conditions like diabetes and hypertension.
